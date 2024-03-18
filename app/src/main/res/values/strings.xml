@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="contactTxt">Contact</string>
+    <string name="number">Number</string>
+    <string name="imgDes">icon</string>
+</resources>
